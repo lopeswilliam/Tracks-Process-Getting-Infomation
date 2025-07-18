@@ -1,4 +1,4 @@
-# Tracks-Process-Getting-Infomation
+# Tracks-Process-Getting-Information
 
 Objetivo deste processo é obter informações especificas sobre qualquer tipo de informação. /
 
